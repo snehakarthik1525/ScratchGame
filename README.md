@@ -1,1 +1,1 @@
-# ScratchGame
+java -jar target/ScratchGame.jar # ScratchGame
